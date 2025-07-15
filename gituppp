@@ -1,5 +1,5 @@
    git init
    git add .
    git commit -m "Initial 24/7 bot"
-   git remote add origin https://github.com/yourusername/telegram-bot-24-7.git
+   git remote add origin https://github.com/Fxlando/moonniiiyy
    git push -u origin main
